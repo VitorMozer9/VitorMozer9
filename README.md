@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, bem vindo ao meu GitHub 👋
 
-<!--
-**VitorMozer9/VitorMozer9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi, meu nome é Vitor Mozer, eu moro em Diamantina, Minas Gerais. Eu sou um Desenvolvedor de Software, Graduando em Sistemas de Informação na [UFVJM](https://portal.ufvjm.edu.br/a-universidade/cursos/sin). Eu procuro sempre resolver problemas e aprender novas tecnologias.
 
-Here are some ideas to get you started:
+<!-- [EN-US](./README-en.md) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens, Ferramentas e Frameworks
+
+Aqui estão listadas Linguagens de Programação, Ferramentas e Frameworks com os quais eu tenho experiência sólida.
+
+<p align="center">
+    <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMozer9&layout=compact&theme=dark">
+</p>
+
+<p align="center">
+    <a href="https://www.java.com/"><img alt="Java" src="https://skillicons.dev/icons?i=java"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" src="https://skillicons.dev/icons?i=html"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" src="https://skillicons.dev/icons?i=css"></a>
+    <a href="https://isocpp.org/"><img alt="C++" src="https://skillicons.dev/icons?i=cpp"></a>
+    <br>
+    <a href="https://angular.dev/"><img alt="Angular" src="https://skillicons.dev/icons?i=angular"></a>
+    <a href="https://www.c-language.org"><img alt="Spring" src="https://skillicons.dev/icons?i=spring"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode"></a>
+    <a href="https://git-scm.com/"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
+    <a href="https://github.com/alan-b-lima"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"></a>
+    <a href="https://www.latex-project.org/"><img alt="LaTeX" src="https://skillicons.dev/icons?i=latex"></a>
+</p>

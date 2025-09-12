@@ -16,7 +16,7 @@ Aqui estão listadas Linguagens de Programação, Ferramentas e Frameworks com o
     <a href="https://www.java.com/"><img alt="Java" src="https://skillicons.dev/icons?i=java"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" src="https://skillicons.dev/icons?i=html"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" src="https://skillicons.dev/icons?i=css"></a>
-    <a href="https://isocpp.org/"><img alt="C++" src="https://skillicons.dev/icons?i=cpp"></a>
+    <a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://skillicons.dev/icons?i=kotlin"></a>
     <br>
     <a href="https://angular.dev/"><img alt="Angular" src="https://skillicons.dev/icons?i=angular"></a>
     <a href="https://www.c-language.org"><img alt="Spring" src="https://skillicons.dev/icons?i=spring"></a>

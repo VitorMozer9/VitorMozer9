@@ -1,6 +1,6 @@
 # Olá, bem vindo ao meu GitHub 👋
 
-Oi, meu nome é Vitor Mozer, eu moro em Diamantina, Minas Gerais. Eu sou um Desenvolvedor de Software, Graduando em Sistemas de Informação na [UFVJM](https://portal.ufvjm.edu.br/a-universidade/cursos/sin). Eu procuro sempre resolver problemas e aprender novas tecnologias.
+Oi, meu nome é Vitor Mozer, moro em Diamantina, Minas Gerais. Eu sou um Desenvolvedor de Software, Graduando em Sistemas de Informação na [UFVJM](https://portal.ufvjm.edu.br/a-universidade/cursos/sin). Eu procuro sempre resolver problemas e aprender novas tecnologias.
 
 <!-- [EN-US](./README-en.md) -->
 

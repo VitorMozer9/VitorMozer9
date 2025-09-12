@@ -21,7 +21,7 @@ Aqui estão listadas Linguagens de Programação, Ferramentas e Frameworks com o
     <a href="https://angular.dev/"><img alt="Angular" src="https://skillicons.dev/icons?i=angular"></a>
     <a href="https://www.c-language.org"><img alt="Spring" src="https://skillicons.dev/icons?i=spring"></a>
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
-    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode"></a>
+    <a href="https://www.postgresql.org/"><img alt="postgres" src="https://skillicons.dev/icons?i=postgres"></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
     <a href="https://github.com/alan-b-lima"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"></a>
     <a href="https://www.latex-project.org/"><img alt="LaTeX" src="https://skillicons.dev/icons?i=latex"></a>

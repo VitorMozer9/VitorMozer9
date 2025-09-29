@@ -14,6 +14,7 @@ Aqui estão listadas Linguagens de Programação, Ferramentas e Frameworks com o
 
 <p align="center">
     <a href="https://www.java.com/"><img alt="Java" src="https://skillicons.dev/icons?i=java"></a>
+    <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" src="https://skillicons.dev/icons?i=html"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" src="https://skillicons.dev/icons?i=css"></a>
     <a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://skillicons.dev/icons?i=kotlin"></a>

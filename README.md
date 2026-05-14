@@ -17,7 +17,6 @@ Aqui estão listadas Linguagens de Programação, Ferramentas e Frameworks com o
     <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a>
     <a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://skillicons.dev/icons?i=kotlin"></a>
     <br>
-    <a href="https://angular.dev/"><img alt="Angular" src="https://skillicons.dev/icons?i=angular"></a>
     <a href="https://spring.io/"><img alt="Spring" src="https://skillicons.dev/icons?i=spring"></a>
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
     <a href="https://www.postgresql.org/"><img alt="postgres" src="https://skillicons.dev/icons?i=postgres"></a>

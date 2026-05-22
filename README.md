@@ -9,10 +9,6 @@ Oi, meu nome é Vitor Mozer, moro em Diamantina, Minas Gerais. Eu sou um Desenvo
 Aqui estão listadas Linguagens de Programação, Ferramentas e Frameworks com os quais eu tenho experiência sólida.
 
 <p align="center">
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMozer9&layout=compact&theme=dark">
-</p>
-
-<p align="center">
     <a href="https://www.java.com/"><img alt="Java" src="https://skillicons.dev/icons?i=java"></a>
     <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a>
     <a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://skillicons.dev/icons?i=kotlin"></a>
